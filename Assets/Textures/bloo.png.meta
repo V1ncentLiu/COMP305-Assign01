@@ -1,0 +1,2527 @@
+fileFormatVersion: 2
+guid: 6a9f580ce85c7de4eb5b7ff4fdc7814a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6661124583130855039
+    second: bloo_0
+  - first:
+      213: 2560975817280782727
+    second: bloo_1
+  - first:
+      213: -2911672633147732130
+    second: bloo_2
+  - first:
+      213: -7372020452440797650
+    second: bloo_3
+  - first:
+      213: 3996910035360383666
+    second: bloo_4
+  - first:
+      213: -8551553723130218928
+    second: bloo_5
+  - first:
+      213: 3380098144804617239
+    second: bloo_6
+  - first:
+      213: 2206191690988951136
+    second: bloo_7
+  - first:
+      213: 7990722409995718624
+    second: bloo_8
+  - first:
+      213: -810128077836527474
+    second: bloo_9
+  - first:
+      213: 4928626940686879369
+    second: bloo_10
+  - first:
+      213: -6816906944217431720
+    second: bloo_11
+  - first:
+      213: -5450520599471662881
+    second: bloo_12
+  - first:
+      213: -8414917045115632866
+    second: bloo_13
+  - first:
+      213: 1050628680586570261
+    second: bloo_14
+  - first:
+      213: 5114992812165856025
+    second: bloo_15
+  - first:
+      213: -5424618438809533365
+    second: bloo_16
+  - first:
+      213: -1245416077969583088
+    second: bloo_17
+  - first:
+      213: -6533205965160784049
+    second: bloo_18
+  - first:
+      213: 2185366186400914380
+    second: bloo_19
+  - first:
+      213: 8973089919610691908
+    second: bloo_20
+  - first:
+      213: -7677616606573991225
+    second: bloo_21
+  - first:
+      213: 1037959563406065104
+    second: bloo_22
+  - first:
+      213: 2279890061634264590
+    second: bloo_23
+  - first:
+      213: 8315445134676348306
+    second: bloo_24
+  - first:
+      213: 4523013424020436827
+    second: bloo_25
+  - first:
+      213: 2997215817306214136
+    second: bloo_26
+  - first:
+      213: 4442890364285369949
+    second: bloo_27
+  - first:
+      213: 5482327377095127062
+    second: bloo_28
+  - first:
+      213: 8861874266653009867
+    second: bloo_29
+  - first:
+      213: 5237682219001937720
+    second: bloo_30
+  - first:
+      213: 696965278404023407
+    second: bloo_31
+  - first:
+      213: -1206738541280369700
+    second: bloo_32
+  - first:
+      213: -7778955931772707042
+    second: bloo_33
+  - first:
+      213: -1819987023263785382
+    second: bloo_34
+  - first:
+      213: -5678514427334992151
+    second: bloo_35
+  - first:
+      213: -1628822381610027051
+    second: bloo_36
+  - first:
+      213: -2601159160457047497
+    second: bloo_37
+  - first:
+      213: 4037322886963279238
+    second: bloo_38
+  - first:
+      213: -8293897566092310917
+    second: bloo_39
+  - first:
+      213: 1398617098533256250
+    second: bloo_40
+  - first:
+      213: 5831371256186766953
+    second: bloo_41
+  - first:
+      213: -5992208812465320906
+    second: bloo_42
+  - first:
+      213: 8402171395007579647
+    second: bloo_43
+  - first:
+      213: -8430359206933785353
+    second: bloo_44
+  - first:
+      213: 615126039525479202
+    second: bloo_45
+  - first:
+      213: -3302657769326885349
+    second: bloo_46
+  - first:
+      213: 215679660098296043
+    second: bloo_47
+  - first:
+      213: -6784743318860650550
+    second: bloo_48
+  - first:
+      213: 3015879274322292976
+    second: bloo_49
+  - first:
+      213: 859377526784363411
+    second: bloo_50
+  - first:
+      213: 7038793850559935244
+    second: bloo_51
+  - first:
+      213: -4001984601296230795
+    second: bloo_52
+  - first:
+      213: -6750253474834924570
+    second: bloo_53
+  - first:
+      213: -5712153134124806225
+    second: bloo_54
+  - first:
+      213: 122385405840601487
+    second: bloo_55
+  - first:
+      213: -1543971229061074362
+    second: bloo_56
+  - first:
+      213: -1592551627849552087
+    second: bloo_57
+  - first:
+      213: -2732089576431096884
+    second: bloo_58
+  - first:
+      213: 1063832277975937
+    second: bloo_59
+  - first:
+      213: 5046369729449450382
+    second: bloo_60
+  - first:
+      213: 6422933678853043708
+    second: bloo_61
+  - first:
+      213: 8003047689325344446
+    second: bloo_62
+  - first:
+      213: 2099372488064188193
+    second: bloo_63
+  - first:
+      213: 3477071899868983028
+    second: bloo_64
+  - first:
+      213: 4044846550719763833
+    second: bloo_65
+  - first:
+      213: 1806595470105957320
+    second: bloo_66
+  - first:
+      213: 5555515045630339585
+    second: bloo_67
+  - first:
+      213: 6022128938225123676
+    second: bloo_68
+  - first:
+      213: -7123944617972520907
+    second: bloo_69
+  - first:
+      213: -2979666351633169298
+    second: bloo_70
+  - first:
+      213: -4191900737222006009
+    second: bloo_71
+  - first:
+      213: 2280137947585058440
+    second: bloo_72
+  - first:
+      213: 7860332563561079828
+    second: bloo_73
+  - first:
+      213: -6447519440222837183
+    second: bloo_74
+  - first:
+      213: 8585483830182406195
+    second: bloo_75
+  - first:
+      213: -49637059258207910
+    second: bloo_76
+  - first:
+      213: 4471970822624020487
+    second: bloo_77
+  - first:
+      213: 7349723724198072930
+    second: bloo_78
+  - first:
+      213: 7398196163171416754
+    second: bloo_79
+  - first:
+      213: 675592095763781326
+    second: bloo_80
+  - first:
+      213: -1609541135805470047
+    second: bloo_81
+  - first:
+      213: -8676303713611344543
+    second: bloo_82
+  - first:
+      213: 4194891206073757680
+    second: bloo_83
+  - first:
+      213: 4585481479670949391
+    second: bloo_84
+  - first:
+      213: -5898327421405529997
+    second: bloo_85
+  - first:
+      213: 1949105376017169625
+    second: bloo_86
+  - first:
+      213: -2835226375924323401
+    second: bloo_87
+  - first:
+      213: -4374722438135725706
+    second: bloo_88
+  - first:
+      213: -8665137074206616943
+    second: bloo_89
+  - first:
+      213: 2587917997878866492
+    second: bloo_90
+  - first:
+      213: -2499908165301251876
+    second: bloo_91
+  - first:
+      213: -7580102589568693836
+    second: bloo_92
+  - first:
+      213: 1632407142629007728
+    second: bloo_93
+  - first:
+      213: 2084624154425038146
+    second: bloo_94
+  - first:
+      213: -654957597144056536
+    second: bloo_95
+  - first:
+      213: 673640788394206932
+    second: bloo_96
+  - first:
+      213: 4870373121099390353
+    second: bloo_97
+  - first:
+      213: 6792815120692109347
+    second: bloo_98
+  - first:
+      213: -2153078296925616885
+    second: bloo_99
+  - first:
+      213: 945291062731799612
+    second: bloo_100
+  - first:
+      213: -7357618576599187701
+    second: bloo_101
+  - first:
+      213: -6795050321973152072
+    second: bloo_102
+  - first:
+      213: 8460363616995326865
+    second: bloo_103
+  - first:
+      213: 219012930321890740
+    second: bloo_104
+  - first:
+      213: 3397087909516663860
+    second: bloo_105
+  - first:
+      213: -5932673968549530994
+    second: bloo_106
+  - first:
+      213: 5204418484366462156
+    second: bloo_107
+  - first:
+      213: 1139738245715893542
+    second: bloo_108
+  - first:
+      213: -7172245943854523588
+    second: bloo_109
+  - first:
+      213: -1550118853500636885
+    second: bloo_110
+  - first:
+      213: 4369853541007511324
+    second: bloo_111
+  - first:
+      213: 6367091468049564857
+    second: bloo_112
+  - first:
+      213: 8411377690353997926
+    second: bloo_113
+  - first:
+      213: 3883525292182814584
+    second: bloo_114
+  - first:
+      213: -678860072086704414
+    second: bloo_115
+  - first:
+      213: 5924450680302176090
+    second: bloo_116
+  - first:
+      213: -3786700442912470929
+    second: bloo_117
+  - first:
+      213: -8386881075287350554
+    second: bloo_118
+  - first:
+      213: -5397246691398787849
+    second: bloo_119
+  - first:
+      213: -5311567698238285560
+    second: bloo_120
+  - first:
+      213: 3157879617545663692
+    second: bloo_121
+  - first:
+      213: -5006908318345012605
+    second: bloo_122
+  - first:
+      213: -8048797769374191128
+    second: bloo_123
+  - first:
+      213: 399974611176240560
+    second: bloo_124
+  - first:
+      213: -2011947435374073753
+    second: bloo_125
+  - first:
+      213: 8702531633682383223
+    second: bloo_126
+  - first:
+      213: 8613995846532200685
+    second: bloo_127
+  - first:
+      213: 1438570277951684368
+    second: bloo_128
+  - first:
+      213: 3217362881836861981
+    second: bloo_129
+  - first:
+      213: 4713173324111703478
+    second: bloo_130
+  - first:
+      213: -3508391735968898420
+    second: bloo_131
+  - first:
+      213: 6984533546564769697
+    second: bloo_132
+  - first:
+      213: 5914937870475352304
+    second: bloo_133
+  - first:
+      213: 8043989790252961674
+    second: bloo_134
+  - first:
+      213: 6588136911833778362
+    second: bloo_135
+  - first:
+      213: -8111749342623121864
+    second: bloo_136
+  - first:
+      213: -918226285244262970
+    second: bloo_137
+  - first:
+      213: -8362790978433889802
+    second: bloo_138
+  - first:
+      213: -8629122172087408934
+    second: bloo_139
+  - first:
+      213: 6430439705388813602
+    second: bloo_140
+  - first:
+      213: -7687652695139521352
+    second: bloo_141
+  - first:
+      213: -6210925061134038453
+    second: bloo_142
+  - first:
+      213: -4724794305389415313
+    second: bloo_143
+  - first:
+      213: 1049133146295794758
+    second: bloo_144
+  - first:
+      213: 6003710552143581516
+    second: bloo_145
+  - first:
+      213: 4837419271395592148
+    second: bloo_146
+  - first:
+      213: 8877724506516579318
+    second: bloo_147
+  - first:
+      213: 2856800848535679888
+    second: bloo_148
+  - first:
+      213: 276625311683626612
+    second: bloo_149
+  - first:
+      213: -3194351163486836180
+    second: bloo_150
+  - first:
+      213: -8179804491424866564
+    second: bloo_151
+  - first:
+      213: 3504631692694839297
+    second: bloo_152
+  - first:
+      213: 8726587928610139946
+    second: bloo_153
+  - first:
+      213: -8838055954551632939
+    second: bloo_154
+  - first:
+      213: 6037339999630151139
+    second: bloo_155
+  - first:
+      213: -1899611366721227501
+    second: bloo_156
+  - first:
+      213: 7446054299360466401
+    second: bloo_157
+  - first:
+      213: 2534279272704179140
+    second: bloo_158
+  - first:
+      213: 215733577214853080
+    second: bloo_159
+  - first:
+      213: -3592256598427279334
+    second: bloo_160
+  - first:
+      213: -5117000764775131221
+    second: bloo_161
+  - first:
+      213: 4394382601182266723
+    second: bloo_162
+  - first:
+      213: -176769986071572083
+    second: bloo_163
+  - first:
+      213: 5304614948015156321
+    second: bloo_164
+  - first:
+      213: -8680393407985300603
+    second: bloo_165
+  - first:
+      213: -6445817559398540612
+    second: bloo_166
+  - first:
+      213: 8283022121229346973
+    second: bloo_167
+  - first:
+      213: 7033296516743548108
+    second: bloo_168
+  - first:
+      213: -8146021750111961795
+    second: bloo_169
+  - first:
+      213: 3289643185346611451
+    second: bloo_170
+  - first:
+      213: 3942634484471472249
+    second: bloo_171
+  - first:
+      213: -6217938225528759598
+    second: bloo_172
+  - first:
+      213: -4312706742624521117
+    second: bloo_173
+  - first:
+      213: -4837992655032153058
+    second: bloo_174
+  - first:
+      213: 4514302182526735735
+    second: bloo_175
+  - first:
+      213: -1270190337165558545
+    second: bloo_176
+  - first:
+      213: -3258396981113209983
+    second: bloo_177
+  - first:
+      213: -7718101272000090080
+    second: bloo_178
+  - first:
+      213: -8537534539779806508
+    second: bloo_179
+  - first:
+      213: -5561659546661037540
+    second: bloo_180
+  - first:
+      213: 2180282182430337080
+    second: bloo_181
+  - first:
+      213: -1836898426913926537
+    second: bloo_182
+  - first:
+      213: -3890237358659766947
+    second: bloo_183
+  - first:
+      213: 5329758834548985029
+    second: bloo_184
+  - first:
+      213: -942350102830669160
+    second: bloo_185
+  - first:
+      213: -2224675663742667662
+    second: bloo_186
+  - first:
+      213: 4866063181185978199
+    second: bloo_187
+  - first:
+      213: -4424146205683010568
+    second: bloo_188
+  - first:
+      213: -6368131881383935491
+    second: bloo_189
+  - first:
+      213: -5525609328505055876
+    second: bloo_190
+  - first:
+      213: 4433625340342215980
+    second: bloo_191
+  - first:
+      213: -5503147111517117560
+    second: bloo_192
+  - first:
+      213: 3071552855162899196
+    second: bloo_193
+  - first:
+      213: 2083617343641241847
+    second: bloo_194
+  - first:
+      213: 8924618984662223801
+    second: bloo_195
+  - first:
+      213: 6472966617247702757
+    second: bloo_196
+  - first:
+      213: -6848269550220610863
+    second: bloo_197
+  - first:
+      213: -7242653900814662458
+    second: bloo_198
+  - first:
+      213: 4269119206843500596
+    second: bloo_199
+  - first:
+      213: -7187451959995817300
+    second: bloo_200
+  - first:
+      213: -1666880552366732324
+    second: bloo_201
+  - first:
+      213: -3500405498288628220
+    second: bloo_202
+  - first:
+      213: -631330841456130212
+    second: bloo_203
+  - first:
+      213: 4191441260669747134
+    second: bloo_204
+  - first:
+      213: 4895641531348052606
+    second: bloo_205
+  - first:
+      213: -2867741355857916817
+    second: bloo_206
+  - first:
+      213: -6269056731460635797
+    second: bloo_207
+  - first:
+      213: 4009166445416018683
+    second: bloo_208
+  - first:
+      213: 6081017051038284562
+    second: bloo_209
+  - first:
+      213: 5457670610699375287
+    second: bloo_210
+  - first:
+      213: 8449868700437430033
+    second: bloo_211
+  - first:
+      213: 1722344254457323326
+    second: bloo_212
+  - first:
+      213: -1822110753756112111
+    second: bloo_213
+  - first:
+      213: -5776209003486580117
+    second: bloo_214
+  - first:
+      213: -5804312855094025800
+    second: bloo_215
+  - first:
+      213: -1160891376412650611
+    second: bloo_216
+  - first:
+      213: 8256108627135173823
+    second: bloo_217
+  - first:
+      213: -1134875132540125616
+    second: bloo_218
+  - first:
+      213: 522812392410413013
+    second: bloo_219
+  - first:
+      213: 3623750217299006636
+    second: bloo_220
+  - first:
+      213: -6048832180353899315
+    second: bloo_221
+  - first:
+      213: -4557253528359704877
+    second: bloo_222
+  - first:
+      213: 5841888845286193322
+    second: bloo_223
+  - first:
+      213: 5714450750722445233
+    second: bloo_224
+  - first:
+      213: -5728677906429065151
+    second: bloo_225
+  - first:
+      213: 3307576127797625663
+    second: bloo_226
+  - first:
+      213: -8733320361313108707
+    second: bloo_227
+  - first:
+      213: -644636492805307276
+    second: bloo_228
+  - first:
+      213: 8785015456071938870
+    second: bloo_229
+  - first:
+      213: -2234345307990676736
+    second: bloo_230
+  - first:
+      213: 2835970375201647467
+    second: bloo_231
+  - first:
+      213: 5098643288397783095
+    second: bloo_232
+  - first:
+      213: 8024694235119634647
+    second: bloo_233
+  - first:
+      213: 7256529849768993790
+    second: bloo_234
+  - first:
+      213: -9168345036830913347
+    second: bloo_235
+  - first:
+      213: -3537443495413183046
+    second: bloo_236
+  - first:
+      213: 278703562069160521
+    second: bloo_237
+  - first:
+      213: -1742707260140337854
+    second: bloo_238
+  - first:
+      213: 7219537497050413846
+    second: bloo_239
+  - first:
+      213: 4971516858155963529
+    second: bloo_240
+  - first:
+      213: -9077433893733775097
+    second: bloo_241
+  - first:
+      213: -4588373565965002626
+    second: bloo_242
+  - first:
+      213: -2896323852274010582
+    second: bloo_243
+  - first:
+      213: 2768728780730298193
+    second: bloo_244
+  - first:
+      213: 6754490256439392822
+    second: bloo_245
+  - first:
+      213: 2734485729054972505
+    second: bloo_246
+  - first:
+      213: 3940340500259446843
+    second: bloo_247
+  - first:
+      213: 6182182029492739200
+    second: bloo_248
+  - first:
+      213: -9028262235062525643
+    second: bloo_249
+  - first:
+      213: -5025436587381003294
+    second: bloo_250
+  - first:
+      213: -8273796058283350993
+    second: bloo_251
+  - first:
+      213: -8680613220429978730
+    second: bloo_252
+  - first:
+      213: -1790560479284493301
+    second: bloo_253
+  - first:
+      213: 8332451089774409602
+    second: bloo_254
+  - first:
+      213: 6158767960093594175
+    second: bloo_255
+  - first:
+      213: 6247924137501730025
+    second: bloo_256
+  - first:
+      213: 1794990123882790288
+    second: bloo_257
+  - first:
+      213: 8921056103982541598
+    second: bloo_258
+  - first:
+      213: -5121864513125332729
+    second: bloo_259
+  - first:
+      213: -1506387299851271475
+    second: bloo_260
+  - first:
+      213: -8684041224599737118
+    second: bloo_261
+  - first:
+      213: 7848237948342045952
+    second: bloo_262
+  - first:
+      213: 4684155860846572666
+    second: bloo_263
+  - first:
+      213: -815775411948383354
+    second: bloo_264
+  - first:
+      213: 5053294291850921767
+    second: bloo_265
+  - first:
+      213: -3198040706142652146
+    second: bloo_266
+  - first:
+      213: -7801187497630114586
+    second: bloo_267
+  - first:
+      213: -7784242550916337500
+    second: bloo_268
+  - first:
+      213: 5370070650277423286
+    second: bloo_269
+  - first:
+      213: 1298110710682127328
+    second: bloo_270
+  - first:
+      213: -40679675297062271
+    second: bloo_271
+  - first:
+      213: 5755930617509021811
+    second: bloo_272
+  - first:
+      213: 4777229399725814274
+    second: bloo_273
+  - first:
+      213: 205876079211808564
+    second: bloo_274
+  - first:
+      213: -4294226455042287059
+    second: bloo_275
+  - first:
+      213: -5850780360528980722
+    second: bloo_276
+  - first:
+      213: -3567705076371433805
+    second: bloo_277
+  - first:
+      213: -5473258427405914682
+    second: bloo_278
+  - first:
+      213: -2425421455818555150
+    second: bloo_279
+  - first:
+      213: 6602490913668735457
+    second: bloo_280
+  - first:
+      213: 8457670631712773777
+    second: bloo_281
+  - first:
+      213: 8468934179164886787
+    second: bloo_282
+  - first:
+      213: -1880404647074984261
+    second: bloo_283
+  - first:
+      213: -3633860764919279711
+    second: bloo_284
+  - first:
+      213: -3646485086026044099
+    second: bloo_285
+  - first:
+      213: -8993886507652320137
+    second: bloo_286
+  - first:
+      213: -4505752035926528983
+    second: bloo_287
+  - first:
+      213: 3007700283341640117
+    second: bloo_288
+  - first:
+      213: -8635880546854715557
+    second: bloo_289
+  - first:
+      213: 6726049589617333924
+    second: bloo_290
+  - first:
+      213: 3589541196220953461
+    second: bloo_291
+  - first:
+      213: 4485257887557134841
+    second: bloo_292
+  - first:
+      213: -7120161701367751229
+    second: bloo_293
+  - first:
+      213: -9105343567074028330
+    second: bloo_294
+  - first:
+      213: 5231493987265567814
+    second: bloo_295
+  - first:
+      213: -425428381344315846
+    second: bloo_296
+  - first:
+      213: 1476177176029981404
+    second: bloo_297
+  - first:
+      213: -2483585254638783221
+    second: bloo_298
+  - first:
+      213: -3983809111061465953
+    second: bloo_299
+  - first:
+      213: 7030094240177621335
+    second: bloo_300
+  - first:
+      213: -2521501157266566946
+    second: bloo_301
+  - first:
+      213: 6882646937272160024
+    second: bloo_302
+  - first:
+      213: 337580846340398161
+    second: bloo_303
+  - first:
+      213: -5015717285480815047
+    second: bloo_304
+  - first:
+      213: -1622649717266067594
+    second: bloo_305
+  - first:
+      213: 431927229249051555
+    second: bloo_306
+  - first:
+      213: 3647668202426765481
+    second: bloo_307
+  - first:
+      213: -7778588665309392720
+    second: bloo_308
+  - first:
+      213: 1026439490677523814
+    second: bloo_309
+  - first:
+      213: -4688991800293284954
+    second: bloo_310
+  - first:
+      213: -3208513280258077595
+    second: bloo_311
+  - first:
+      213: 2892503413618403504
+    second: bloo_312
+  - first:
+      213: 5168564149809675247
+    second: bloo_313
+  - first:
+      213: -5641402977440771026
+    second: bloo_314
+  - first:
+      213: 2627521572079451348
+    second: bloo_315
+  - first:
+      213: -6596784163056793450
+    second: bloo_316
+  - first:
+      213: -8067753708732854497
+    second: bloo_317
+  - first:
+      213: -5382618004086616650
+    second: bloo_318
+  - first:
+      213: 8488196932236403090
+    second: bloo_319
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bloo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed204c276d90c8a47ae801aeaea9a193
+      internalID: -6661124583130855039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d3c322953922c40b627a85ec797d30
+      internalID: 2560975817280782727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c4301f81f94324d9d36f1af2bb4485
+      internalID: -2911672633147732130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5ae09e0aff3474f9269d57547834a1
+      internalID: -7372020452440797650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c070fbda743fb4bb3465f231cc9b48
+      internalID: 3996910035360383666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a645059d516ec8c4c867966eb2e09175
+      internalID: -8551553723130218928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04cc2f097984910428a08f017d9c7e03
+      internalID: 3380098144804617239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f08bc7579a4fae48b2732a6b9833e7f
+      internalID: 2206191690988951136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ebd930b27ec544398f334b783422dd
+      internalID: 7990722409995718624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8702283c09e195c40ac9cd84523ac967
+      internalID: -810128077836527474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774ac650558b8cc498caee3ca32c5620
+      internalID: 4928626940686879369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6630b88c8dae9da449055f35c0304dda
+      internalID: -6816906944217431720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908accd9be5b0ee4aa8293e88dfbd2a8
+      internalID: -5450520599471662881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd08ddb989cd0e4ea02683c160a1bd4
+      internalID: -8414917045115632866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ce698d796bab746b5b70771a11fda3
+      internalID: 1050628680586570261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469c29b48b0ac984ea41a932c21dbaed
+      internalID: 8973089919610691908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7b845750621054b80ab1dfcfccb95d
+      internalID: -7677616606573991225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3981e90ede7374bbb2aadce8563a73
+      internalID: 1037959563406065104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0ee6cc60e40a1448ea1e2462180a9e
+      internalID: 2279890061634264590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eaca2a085e845c4eb77859852e25927
+      internalID: 8315445134676348306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454e7bfef2a70154caa4d9da1a17f1e5
+      internalID: 4523013424020436827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f50766ed4e5384db56c7c57508e720
+      internalID: 2997215817306214136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_27
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55633ab4db3809b47b5327f93989c105
+      internalID: 4442890364285369949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4bc307e6046814ab1b16a215207ad9
+      internalID: 5482327377095127062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_29
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b029abcf4177a4ca5aef8fbbfc8348
+      internalID: 8861874266653009867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_30
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105d4dc3d683a0f4ebba3b7c247b47ab
+      internalID: 5237682219001937720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_31
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ba4cafbcda9bf408d8be00f9314f81
+      internalID: 696965278404023407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_32
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92c8d4b91827ec4f94319844d68de33
+      internalID: -1206738541280369700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_33
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9b3aae2faca1f49851fae0a5b80de4
+      internalID: -7778955931772707042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_34
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db5259b2b9a5be43bb2bacc45837451
+      internalID: -1819987023263785382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1083f69f1c6a6fb4e8130bfe43789bbb
+      internalID: 1398617098533256250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_41
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870b866204aaf254bbb6418f94519d46
+      internalID: 5831371256186766953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec57c29c2c5c77f4bbaba0e23a54c4c6
+      internalID: -5992208812465320906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_43
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cfb8c09e54d7a47bb6a5a11580957c
+      internalID: 8402171395007579647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a55b6c3f45d55478548c14880249f0
+      internalID: -8430359206933785353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_45
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c854f33d6114f43b797e5a13b171d1
+      internalID: 615126039525479202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ceb813bd78fd1458e2f66a9d00639e
+      internalID: -3302657769326885349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_47
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a03c24622aa19048842004def91e2ad
+      internalID: 215679660098296043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_49
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011385e284412c44c8394ae0361dc5d5
+      internalID: 3015879274322292976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_50
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3a9b21b8dc7084380781e5e7888367
+      internalID: 859377526784363411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_51
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e1dfd1529a55540b627b74b6b2de62
+      internalID: 7038793850559935244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11baf94477bd3da40ad98e5470b94f25
+      internalID: -4001984601296230795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_53
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddf60955bc71264e93ce2afa2d9b7b9
+      internalID: -6750253474834924570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919cbcb6164d2f24092b9142fc2a982a
+      internalID: 5046369729449450382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adbbe37909935141b1b419e23a31903
+      internalID: 6422933678853043708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_62
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce12528d1f18dbb4a9ed21c98e692fe5
+      internalID: 8003047689325344446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_63
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b6da2fbca53ce41a190c6bd6d68906
+      internalID: 2099372488064188193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c0bc993a895474c9359c7861b22082
+      internalID: 3477071899868983028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_65
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b8bf5e8fcadd04fbb940d5bda8b5bd
+      internalID: 4044846550719763833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1dedf9906ee9941a71516b6bd3691b
+      internalID: 1806595470105957320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_67
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73b63c01a13bdd4686eec859ef775ab
+      internalID: 5555515045630339585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1743c83658129446a3bb870a6870ae4
+      internalID: 6022128938225123676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_69
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93a3e6a692a09e4eafdebddfb224e40
+      internalID: -7123944617972520907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_70
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ced49ddedbb4084ca9dd4841e3469a5
+      internalID: -2979666351633169298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_71
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669613d0baaeb8747a2a0395e5b8293a
+      internalID: -4191900737222006009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209bc6b23be79b240b7b1bf187adf516
+      internalID: 2280137947585058440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_73
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32d85889862a1b4a9884beaad971777
+      internalID: 7860332563561079828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8091765eb05a42d45b8aa0619d284f87
+      internalID: 675592095763781326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_82
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5802302c6aa219b48b4d15e0dae0b6ca
+      internalID: -8676303713611344543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_83
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2ed493ade52754e9b8418e4303c177
+      internalID: 4194891206073757680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a462178973baf804183071f18f1c6170
+      internalID: -4374722438135725706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_89
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499408e59d34c0147bfb04c20d7a6d84
+      internalID: -8665137074206616943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_103
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529ae27c2fcc0824f9ef1f9dd5e8b486
+      internalID: 8460363616995326865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_121
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d03e06f54b4a844af126ac2cc4ce8c
+      internalID: 3157879617545663692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_122
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6863a64afb8aa64d99129da06ac3a88
+      internalID: -5006908318345012605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_123
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e137fb459632ef41aa17fbf65ddc63b
+      internalID: -8048797769374191128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_124
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd40545026f5ed345aca7bc807f70ca1
+      internalID: 399974611176240560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloo_161
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d75b29e9173e3842817e48f1bb7b088
+      internalID: -5117000764775131221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -160, y: 96}
+      - {x: -160, y: 128}
+      - {x: -112, y: 128}
+      - {x: -112, y: 96}
+    - - {x: -112, y: 112}
+      - {x: -112, y: 128}
+      - {x: -96, y: 128}
+      - {x: -96, y: 112}
+    - - {x: -96, y: 112}
+      - {x: -96, y: 128}
+      - {x: -80, y: 128}
+      - {x: -80, y: 112}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
