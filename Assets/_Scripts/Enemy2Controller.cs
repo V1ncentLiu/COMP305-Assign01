@@ -1,17 +1,26 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Util;
 
 public class Enemy2Controller : MonoBehaviour
 {
-    public float horizontalSpeed = 0.05f;
-    public float resetPosition = 6.75f;
-    public float resetPoint = -6.75f;
+    [Header("Speed Values")]
+    [SerializeField]
+    public Speed horizontalSpeedRange;
 
+    [SerializeField]
+    public Speed verticalSpeedRange;
+
+    public float horizontalSpeed;
+    public float verticalSpeed;
+
+    [SerializeField]
+    public Boundary boundary;
     // Start is called before the first frame update.
     void Start()
     {
-        //Reset();
+        Reset();
     }
     // Update is called once per frame.
     void Update()
@@ -22,21 +31,27 @@ public class Enemy2Controller : MonoBehaviour
     //This method moves the sky to left by horizontalSpeed.
     void Move()
     {
-        Vector2 newPosition = new Vector2(horizontalSpeed, 0.0f);
+        Vector2 newPosition = new Vector2(horizontalSpeed, verticalSpeed);
         Vector2 currentPosition = transform.position;
+
         currentPosition -= newPosition;
         transform.position = currentPosition;
     }
     //This method resets the position of the sky.
     void Reset()
     {
-        float randomYPosition = Random.Range(-3.23f, 3.23f);
-        transform.position = new Vector2(resetPosition, randomYPosition);
+        horizontalSpeed = Random.Range(horizontalSpeedRange.min, horizontalSpeedRange.max);
+
+        verticalSpeed = Random.Range(verticalSpeedRange.min, verticalSpeedRange.max);
+
+
+        float randomYPosition = Random.Range(boundary.Bottom, boundary.Top);
+        transform.position = new Vector2(boundary.Right, randomYPosition);
     }
     //This method checks if the sky meets the reset point.
     void BoundaryCheck()
     {
-        if (transform.position.x <= resetPoint)
+        if (transform.position.x <= boundary.Left)
         {
             Reset();
         }

@@ -7,11 +7,10 @@ public class Enemy1Controller : MonoBehaviour
 {
     public float horizontalSpeed = 0.05f;
     public Boundary boundary;
-
     // Start is called before the first frame update.
     void Start()
     {
-        //Reset();
+        Reset();
     }
     // Update is called once per frame.
     void Update()
@@ -31,7 +30,7 @@ public class Enemy1Controller : MonoBehaviour
     void Reset()
     {
         float randomYPosition = Random.Range(boundary.Bottom, boundary.Top);
-        transform.position = new Vector2(boundary.Right, randomYPosition);
+        transform.position = new Vector2(Random.Range(boundary.Right,boundary.Right+2.0f), randomYPosition);
     }
     //This method checks if the sky meets the reset point.
     void BoundaryCheck()

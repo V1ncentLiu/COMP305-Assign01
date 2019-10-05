@@ -13,5 +13,3 @@ namespace Util
         public float Left;
     }
 }
-
-
