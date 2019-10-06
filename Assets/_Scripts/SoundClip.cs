@@ -9,5 +9,7 @@ public enum SoundClip
     CRASHE1,
     CRASHE2,
     GAMEOVER,
+    ENGINE,
+    POWERUP,
     NUM_OF_CLIPS
 }

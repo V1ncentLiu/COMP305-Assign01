@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 619adf635d7316c4a946a6e59eaf0e0d
+guid: 02ec1dcb9d25a6247903c582befbc1ac
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -8,9 +8,9 @@ TrueTypeFontImporter:
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
-  fontName: Dock 51
+  fontName: SF Atarian System
   fontNames:
-  - Dock 51
+  - SF Atarian System
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0

@@ -116,13 +116,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed:
-    min: -0.08
-    max: 0.08
+    min: -0.1
+    max: 0.1
   boundary:
     Top: 3.2
     Right: -5.5
     Bottom: -3.2
     Left: -5.5
+  gameController: {fileID: 0}
 --- !u!60 &85572481592128536
 PolygonCollider2D:
   m_ObjectHideFlags: 0
